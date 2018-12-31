@@ -12,11 +12,13 @@ const App = () => {
         author="Sam"
         date="Dec. 30th, 2018"
         text="Nice blog post"
+        avatar={faker.image.avatar()}
       />
       <CommentDetail
         author="Jane"
         date="Jan. 2nd, 2019"
         text="Miss Kolawole is beautiful"
+        avatar={faker.image.avatar()}
       />
       <CommentDetail
         author="Dammy"
