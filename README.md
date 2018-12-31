@@ -1,3 +1,3 @@
-## Season
+## Modern React with Redux
 
-A simple React app using Class Components
+Learning React with Stephen Grider
